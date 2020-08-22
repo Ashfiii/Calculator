@@ -1,0 +1,16 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Basic calculator for simple arithmetic operations",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Ashfaque Alam",
+  "license": "ISC",
+  "homepage": "https://github.com/Ashfiii/Calculator.git",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
